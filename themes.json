@@ -22,5 +22,51 @@
 		"previewUrl" : "https://github.com/Elguar0/dofus/raw/main/Mercenary.jpg",
 		"creationDate" : "20/06/2024",
 		"modificationDate" : "20/06/2024"
-	}
+	},
+ {
+        "author": "Aspette",
+        "name": "!! HOW TO ACTIVATE CUSTOM TACTIC MODE !!",
+        "keyWords": "README",
+        "version": "README",
+        "dofusVersion": "Install that does nothing",
+        "description": "Go to OPTIONS > FEATURES > disable USE COLOURFUL TACTICAL MODE",
+        "url": "https://github.com/aspette/dofus_themes/raw/master/themes/readme.zip",
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/readme.jpg"
+    },
+    {
+        "author": "Aspette",
+        "name": "darkOpacity",
+        "keyWords": "darkOpacity, Theme",
+        "version": "2.73.1",
+        "dofusVersion": "2.73",
+        "description": "darkOpacity: the last update. (Twitter : @Aspette)",
+        "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/darkOpacity.zip",
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity/darkOpacity.jpg",
+        "creationDate": "01/08/2017",
+        "modificationDate": "07/01/2024"
+    },
+    {
+        "author": "Aspette",
+        "name": "darkOpacity Hundred",
+        "keyWords": "darkOpacity Hundred, Theme",
+        "version": "2.73.1",
+        "dofusVersion": "2.73",
+        "description": "darkOpacity Hundred: the last update. (Twitter : @Aspette)",
+        "url": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/darkOpacityHundred.zip",
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/darkOpacityHundred.jpg",
+        "creationDate": "01/08/2017",
+        "modificationDate": "27/02/2024"
+    },
+    {
+        "author": "Aspette",
+        "name": "oldUI Remake",
+        "keyWords": "oldUI Remake, Thèmes",
+        "version": "2.73.1",
+        "dofusVersion": "2.73",
+        "description": "oldUI Remake: the last update. (Twitter : @Aspette)",
+        "url": "https://github.com/aspette/dofus_themes/raw/master/themes/oldUI%20Remake/oldUIRemake.zip",
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/oldUI%20Remake/oldUIPreview.jpg",
+        "creationDate": "11/05/2019",
+        "modificationDate": "27/02/2024"
+    }
 ]
